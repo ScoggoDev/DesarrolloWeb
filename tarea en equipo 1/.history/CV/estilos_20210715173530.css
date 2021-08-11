@@ -1,0 +1,49 @@
+body {
+    
+}
+
+table {
+    width: 100%;
+    display: flex;
+}
+td {
+    margin: 100px;
+}
+
+h4 {
+    color: steelblue;
+}
+
+img {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 20%;
+}
+
+#subtitle {
+    color: black;
+}
+
+#title {
+    width: 200%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row {
+    display: flex;
+    font-stretch: extra-expanded;
+  }
+  
+  .column1 {
+    flex: 13%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }  
+
+  .column2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: extra-expanded;
+    flex: 50%;
+    background-color: rgb(235, 235, 235);
+  }

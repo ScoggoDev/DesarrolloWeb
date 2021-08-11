@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    height: auto;
+    
+}
+
+td {
+    display: flex;
+}
+
+img {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+}
+
+#subtitle {
+    color: white;
+}
+
+#title {
+    color: white;
+}

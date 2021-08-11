@@ -1,0 +1,44 @@
+
+.encabezado{
+    background-image: url(images/cat1.jpg);
+    height: 500px;
+    width: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body{
+    margin: 0px;
+}
+.titulo{
+    text-align: center;
+    color: aliceblue;
+    font-size: 80pt;
+    /*completar*/
+}
+
+.foto{
+    max-width:400px;
+}
+
+.medio{
+    display: block;
+    padding-top: 50px;
+    /*completar*/
+  
+}
+
+.contenedor-img{
+   /*completar*/
+
+}
+
+.text-block {
+  /*completar*/
+}
+.text-block-different{
+    background-color:white;
+    color:black;
+}
+ 

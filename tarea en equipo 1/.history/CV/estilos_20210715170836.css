@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+td {
+    margin: 100px;
+}
+
+img {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 20%;
+}
+
+#subtitle {
+    color: white;
+}
+
+#title {
+    width: 200%;
+    color: white;
+}
+
+/* Set additional styling options for the columns*/
+.column {
+float: left;
+width: 50%;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}

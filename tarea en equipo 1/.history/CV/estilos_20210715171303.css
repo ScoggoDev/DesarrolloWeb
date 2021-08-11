@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+    display: flex;
+}
+td {
+    margin: 100px;
+}
+
+img {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 20%;
+}
+
+#subtitle {
+    color: white;
+}
+
+#title {
+    width: 200%;
+    color: white;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column1 {
+    flex: 11%;
+  }  
+
+  .column2 {
+    flex: 50%;
+  }

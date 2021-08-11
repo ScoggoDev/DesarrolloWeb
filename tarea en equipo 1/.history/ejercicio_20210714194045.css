@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+}
+
+h4 {
+    background-color: grey;
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 5px;
+}
+
+img {
+    margin-left: 150px;
+    float: left;
+    padding-right: 5px;
+}
+
+.date {
+    color: red;
+}
+
+.recomendacion {
+    background-color: white;
+}
+
+p {
+    margin-left: 30px;
+}

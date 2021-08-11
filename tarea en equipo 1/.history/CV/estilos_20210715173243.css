@@ -1,0 +1,44 @@
+body {
+    font-family: fantasy;
+}
+
+table {
+    width: 100%;
+    display: flex;
+}
+td {
+    margin: 100px;
+}
+
+h4 {
+    color: steelblue;
+}
+
+img {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 20%;
+}
+
+#subtitle {
+    color: black;
+}
+
+#title {
+    width: 200%;
+    color: black;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column1 {
+    flex: 13%;
+  }  
+
+  .column2 {
+
+    flex: 50%;
+    background-color: rgb(235, 235, 235);
+  }

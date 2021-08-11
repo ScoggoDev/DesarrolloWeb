@@ -1,0 +1,48 @@
+
+.encabezado{
+    background-image: url(images/cat1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body{
+    margin: 0px;
+}
+.titulo{
+    text-align: center;
+    color: aliceblue;
+    font-size: 80pt;
+    /*completar*/
+}
+
+.foto{
+    max-width:400px;
+}
+
+.medio{
+    display: block;
+    padding-top: 50px;
+    display: flex;
+}
+
+.contenedor-img{
+    position: relative;
+    margin: 3px;
+}
+
+.text-block {
+    position: absolute;
+    left: 40%;
+    top: 80%;
+    text-align: center;
+    width: 60%;
+    color: white;
+    background-color: black;
+    opacity: 0.6; 
+}
+.text-block-different{
+    background-color:white;
+    color:black;
+    opacity: 0.6;
+}
